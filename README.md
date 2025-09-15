@@ -110,7 +110,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="120" alt="Cloud and DevOps animation"/>
+  <img src="https://media.giphy.com/media/l41lQh2qX6aVvS7Ic/giphy.gif" height="120" alt="Subtle circuit board animation"/>
   <br>
-  <b>☁️ Shipping reliable systems at scale.</b>
+  <b>🧠 Applied AI + Data Engineering for real-world problems.</b>
 </div>
