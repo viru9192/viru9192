@@ -110,7 +110,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l41lQh2qX6aVvS7Ic/giphy.gif" height="120" alt="Subtle circuit board animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="120" alt="Typing code animation"/>
   <br>
-  <b>🧠 Applied AI + Data Engineering for real-world problems.</b>
+  <b>🚀 Always learning, always building — turning data challenges into actionable solutions.</b>
 </div>
