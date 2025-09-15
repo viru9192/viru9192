@@ -110,8 +110,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="120" alt="AI Animation"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="120" alt="Data visualization animation"/>
   <br>
-  <b>🚀 Always learning, always building — turning data challenges into actionable solutions.</b>
+  <b>📊 Insights to impact — from raw data to real outcomes.</b>
 </div>
-
