@@ -110,7 +110,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="120" alt="Typing code animation"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="120" alt="Cloud and DevOps animation"/>
   <br>
-  <b>🚀 Always learning, always building — turning data challenges into actionable solutions.</b>
+  <b>☁️ Shipping reliable systems at scale.</b>
 </div>
