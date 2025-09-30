@@ -2,9 +2,6 @@
 
 <div align="center">
   
-  <!-- Typing Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=2000&color=0B7285&center=true&vCenter=true&width=850&lines=Hi+Fellow+Techies+👋,+I'm+Viranchi+Ravindra+More;Driving+Insights+•+Building+Solutions+•+Empowering+Innovation;Data+Science+%7C+Analytics+%7C+Applied+AI" alt="Typing SVG" />
-
   <!-- Animated GIF -->
   <br>
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="200" alt="AI Animation"/>
