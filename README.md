@@ -18,7 +18,7 @@
 - 🤖 Exploring **AI, NLP, ML Engineering**, and **real-world data pipelines**  
 - 🎯 Actively seeking roles in **Data Science, Analytics, ML Engineering**, and **Applied AI**  
 
----
+----
 
 ## 🛠️ Tech Stack & Skills  
 
