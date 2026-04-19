@@ -258,6 +258,6 @@ RAG-based document Q&A system enabling semantic search over academic PDFs using 
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer&text=Open%20to%20Opportunities%20%E2%80%94%20May%202026&fontSize=16&fontColor=#0f172a&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer&text=Open%20to%20Opportunities%20%E2%80%94%20May%202026&fontSize=16&fontColor=0f172a&animation=fadeIn"/>
 
 </div>
