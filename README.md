@@ -43,18 +43,14 @@
 
 ## 🧠 About Me
 
-```python
-viranchi = {
-    "name"      : "Viranchi More",
-    "location"  : "Binghamton, New York 🗽",
-    "education" : "MS Information Systems @ Binghamton University (SUNY)",
-    "current"   : "Graduate Research Assistant — Institutional Research & Analytics",
-    "past"      : "Data Analyst @ Tata Consultancy Services (SBI Core Banking)",
-    "focus"     : ["Data Science", "ML Engineering", "GenAI", "BI & Analytics"],
-    "seeking"   : "2025–26 Full-Time Roles in Data Science | ML | Analytics",
-    "superpower": "Translating messy data into decisions that move the needle 💡",
-}
-```
+👋 Hi, I'm **Viranchi More** — a Data Scientist & ML Engineer based in **Binghamton, New York 🗽**
+
+- 🎓 **MS Information Systems** @ Binghamton University (SUNY)
+- 💼 Currently: **Graduate Research Assistant** — Institutional Research & Analytics
+- 🏦 Previously: **Data Analyst @ Tata Consultancy Services** (SBI Core Banking)
+- 🎯 Focus areas: **Data Science · ML Engineering · GenAI · BI & Analytics**
+- 🔍 Seeking: **2026 Full-Time Roles** in Data Science | ML | Analytics
+- 💡 Superpower: Translating messy data into decisions that move the needle
 
 > *"I don't just build models — I build systems that drive measurable business outcomes."*
 
@@ -204,19 +200,23 @@ viranchi = {
 
 ## 💼 Experience Timeline
 
-```
-2024 – Present  │  🏫 Binghamton University — Graduate Research Assistant
-                │  ├─ Built ML pipelines on 50,000+ student records
-                │  ├─ Achieved 92% forecasting accuracy on $50M+ institutional data
-                │  ├─ Delivered 15+ dashboards to VP-level stakeholders
-                │  └─ Led GenAI evaluation frameworks for institutional AI governance
-                │
-2021 – 2024     │  🏦 Tata Consultancy Services — Data Analyst (SBI Core Banking)
-                │  ├─ Processed 2M+ banking records across core banking systems
-                │  ├─ Improved database performance by 35–40% via query optimization
-                │  ├─ Reduced reporting time by 40% through automated ETL pipelines
-                │  └─ Improved data accuracy by 25% via governance frameworks
-```
+### 🏫 Binghamton University — Graduate Research Assistant
+**2024 – Present · Binghamton, NY**
+
+- 🔬 Built ML pipelines processing **50,000+ student records** for institutional analytics
+- 🎯 Achieved **92% forecasting accuracy** on $50M+ institutional budget data
+- 📊 Delivered **15+ interactive dashboards** used weekly by VP-level stakeholders
+- 🤖 Led GenAI evaluation frameworks for institutional AI governance & risk
+
+---
+
+### 🏦 Tata Consultancy Services — Data Analyst (SBI Core Banking)
+**2021 – 2024 · Mumbai, India**
+
+- 🏛️ Processed **2M+ banking records** across core banking systems
+- ⚡ Improved database performance by **35–40%** via advanced query optimization
+- 📉 Reduced reporting time by **40%** through automated ETL pipelines
+- ✅ Improved data accuracy by **25%** via data governance frameworks
 
 ---
 
@@ -257,15 +257,13 @@ viranchi = {
 
 ## 🎯 Currently
 
-```python
-current_status = {
-  "learning"  : ["Causal Inference", "LLM Fine-tuning", "dbt + Modern Data Stack"],
-  "building"  : ["GenAI Evaluation Framework", "Attribution Modeling Pipeline"],
-  "open_to"   : ["Full-Time: Data Scientist | ML Engineer | BI Analyst | Data Analyst"],
-  "available" : "May 2026 🟢",
-  "location"  : "Open to Remote / Hybrid / Relocation (US)"
-}
-```
+| | |
+|---|---|
+| 📚 **Learning** | Causal Inference · LLM Fine-tuning · dbt + Modern Data Stack |
+| 🔨 **Building** | GenAI Evaluation Framework · Attribution Modeling Pipeline |
+| 🟢 **Available** | May 2026 onwards |
+| 📍 **Location** | Open to Remote / Hybrid / Relocation (US) |
+| 💼 **Open to** | Data Scientist · ML Engineer · BI Analyst · Data Analyst |
 
 ---
 
