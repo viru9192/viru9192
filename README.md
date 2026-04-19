@@ -1,294 +1,281 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1e3a5f,100:06b6d4&height=200&section=header&text=Viranchi%20More&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20BI%20Analyst&descAlignY=58&descSize=20&descColor=94d2f7"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Turning+Raw+Data+into+Business+Impact+%F0%9F%9A%80;92%25+Forecasting+Accuracy+on+%2450M%2B+Data+%F0%9F%8E%AF;15%2B+Executive+Dashboards+%7C+2M%2B+Records+Processed+%F0%9F%93%8A;ML+%7C+NLP+%7C+LLMs+%7C+GenAI+%7C+BI+%7C+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Viranchi%20More&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Data%20Scientist%20%7C%20Data%20Engineer%20%7C%20ML%20Engineer&descAlignY=60&descSize=15&descColor=a8c8f0"/>
 
 <br/>
 
-<!-- Profile Views + Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=viru9192&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"/>
-  <a href="https://www.linkedin.com/in/viranchimore/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:viranchimore2112@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://viru9192.github.io/Viranchi_More_portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-00C896?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/viranchi"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=4A9EDB&center=true&vCenter=true&width=750&height=40&lines=Transforming+complex+data+into+clear+business+decisions;3%2B+years+across+Banking%2C+Research+%26+Institutional+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Azure+%7C+ML+%7C+ETL+%7C+GenAI;Open+to+Full-Time+Data+Roles+%E2%80%94+May+2026" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/viranchimore/">
+  <img src="https://img.shields.io/badge/LinkedIn-viranchimore-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:viranchimore2112@gmail.com">
+  <img src="https://img.shields.io/badge/Email-viranchimore2112%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://viru9192.github.io/Viranchi_More_portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Live-0CAA68?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/viranchi">
+  <img src="https://img.shields.io/badge/Kaggle-viranchi-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=viru9192&style=flat-square&color=4A9EDB&label=Profile+Views"/>
 
 </div>
 
 ---
 
-<!-- Impact Metrics Strip -->
+## About Me
+
+I'm a data professional with **3+ years of experience** turning raw, complex data into reliable insights and scalable systems. My work spans enterprise banking infrastructure at **Tata Consultancy Services** and institutional analytics at **Binghamton University** — giving me a strong foundation across the full data lifecycle: from pipeline engineering and governance to dashboards, forecasting, and applied ML.
+
+I'm equally comfortable writing production SQL for 2M+ record systems, building Power BI dashboards for C-suite audiences, designing ETL workflows on Azure, and training predictive models. I focus on work that creates **clear, measurable business value**.
+
+Currently completing my **MS in Information Systems** at Binghamton University (SUNY) and actively seeking full-time roles starting **May 2026** in:
+
+> **Data Analytics &nbsp;·&nbsp; Business Intelligence &nbsp;·&nbsp; Data Engineering &nbsp;·&nbsp; Data Science &nbsp;·&nbsp; ML Engineering**
+
+---
+
+## Impact Highlights
+
 <div align="center">
 
-### ⚡ Impact at a Glance
-
-| 🎯 Metric | 📊 Value |
-|-----------|---------|
-| Forecasting Accuracy | **92%** on $50M+ Institutional Data |
-| Reporting Efficiency | **40% faster** delivery to executives |
-| Data Accuracy | **25% improvement** across pipelines |
-| Dashboards Shipped | **15+ VP/C-suite** dashboards |
-| Records Processed | **2M+ banking** + **50K+ student** records |
-| DB Performance | **35–40% improvement** on large-scale systems |
+| Metric | Result |
+|--------|--------|
+| 📉 Reporting Turnaround | **40% faster** through automated ETL pipelines |
+| 🎯 Forecast Accuracy | **92%** on $50M+ institutional budget data |
+| 📊 Dashboards Delivered | **15+** used by VP & C-suite stakeholders weekly |
+| ✅ Data Accuracy | **25% improvement** via governance frameworks |
+| ⚡ Database Performance | **35–40% faster** query execution on 2M+ record systems |
+| 🗂️ Scale | **2M+ banking records** &nbsp;+&nbsp; **50,000+ student records** processed |
 
 </div>
 
 ---
 
-## 🧠 About Me
+## Technical Skills
 
-👋 Hi, I'm **Viranchi More** — a Data Scientist & ML Engineer based in **Binghamton, New York 🗽**
+**Data & Analytics**
 
-- 🎓 **MS Information Systems** @ Binghamton University (SUNY)
-- 💼 Currently: **Graduate Research Assistant** — Institutional Research & Analytics
-- 🏦 Previously: **Data Analyst @ Tata Consultancy Services** (SBI Core Banking)
-- 🎯 Focus areas: **Data Science · ML Engineering · GenAI · BI & Analytics**
-- 🔍 Seeking: **2026 Full-Time Roles** in Data Science | ML | Analytics
-- 💡 Superpower: Translating messy data into decisions that move the needle
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=flat-square&logo=r&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Advanced-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-Intermediate-1A1A1A?style=flat-square)
+![Scala](https://img.shields.io/badge/Scala-Intermediate-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-> *"I don't just build models — I build systems that drive measurable business outcomes."*
+**Business Intelligence & Visualization**
 
----
+![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-## 🛠️ Tech Arsenal
+**Data Engineering & Cloud**
 
-<details open>
-<summary><b>🐍 Languages & Databases</b></summary>
-<br>
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Advanced-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-Intermediate-1A1A1A?style=for-the-badge&logo=sas&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-Intermediate-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+**Machine Learning & AI**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI / ML / Data Science</b></summary>
-<br>
-
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20%2F%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00BFAE?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-6B46C1?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Transformers-yellow?style=for-the-badge)
-![Time Series](https://img.shields.io/badge/Time%20Series-Forecasting-0ea5e9?style=for-the-badge)
-
-</details>
-
-<details open>
-<summary><b>📊 BI & Visualization</b></summary>
-<br>
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</details>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00BFAE?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-6B46C1?style=flat-square)
 
 ---
 
-## 🚀 Featured Projects
+## Experience
+
+### Binghamton University (SUNY) &nbsp;—&nbsp; Graduate Research Assistant, Institutional Research
+**Jan 2024 – Present &nbsp;·&nbsp; Binghamton, NY**
+
+- Designed and maintained **ETL pipelines** across 50,000+ student records for enrollment, retention, and outcomes reporting
+- Built **15+ Power BI dashboards** consumed by VP and C-suite stakeholders for strategic planning
+- Delivered **92% forecasting accuracy** on $50M+ institutional budget and resource allocation models
+- Developed a **GenAI evaluation framework** to assess LLM outputs for accuracy, bias, and institutional risk
+- Cut manual reporting time by **40%** through pipeline automation and scheduled data refresh workflows
+- Collaborated cross-functionally with IR, finance, and IT teams to define KPIs and data governance standards
+
+---
+
+### Tata Consultancy Services &nbsp;—&nbsp; Data Analyst, SBI Core Banking
+**2021 – 2024 &nbsp;·&nbsp; Mumbai, India**
+
+- Processed and validated **2M+ banking records** daily across SBI's core transaction infrastructure
+- Optimized critical SQL and PL/SQL queries, improving database performance by **35–40%**
+- Built automated ETL workflows that reduced reporting cycle time by **40%** across operations teams
+- Implemented data quality and governance controls that improved overall data accuracy by **25%**
+- Delivered analytical reports and dashboards to operations and compliance stakeholders on a weekly cadence
+
+---
+
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 LLM Risk Intelligence System</h3>
-      <p><b>Problem:</b> No structured framework to evaluate GenAI outputs for institutional risk.</p>
-      <p><b>Solution:</b> Built a multi-model evaluation pipeline with hallucination detection, bias scoring, and explainability layers using LLMs + SHAP.</p>
-      <p>
-        <img src="https://img.shields.io/badge/LLMs-OpenAI-412991?style=flat-square"/>
-        <img src="https://img.shields.io/badge/SHAP-Explainability-6B46C1?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-      <p>📈 <b>Impact:</b> Reduced manual review time by 60%; deployed across research teams</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 Supply Chain Forecasting</h3>
-      <p><b>Problem:</b> $50M+ institutional budget allocation lacked predictive accuracy.</p>
-      <p><b>Solution:</b> Built XGBoost + Time Series ensemble model with feature engineering on 5-year historical data.</p>
-      <p>
-        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Time%20Series-0ea5e9?style=flat-square"/>
-        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square"/>
-      </p>
-      <p>📈 <b>Impact:</b> <b>92% forecasting accuracy</b>; used in VP-level budget planning</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏘️ <a href="https://github.com/viru9192/Real_Estate_Recommendation">Real Estate Recommender</a></h3>
-      <p><b>Problem:</b> Property discovery is unstructured and inefficient for buyers.</p>
-      <p><b>Solution:</b> ML-powered recommendation engine with NLP-based property description matching and collaborative filtering.</p>
-      <p>
-        <img src="https://img.shields.io/badge/NLP-yellow?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square"/>
-      </p>
-      <p>📈 <b>Impact:</b> 85%+ recommendation relevance score in user testing</p>
+      <h3>📊 <a href="https://github.com/viru9192/Real_Estate_Recommendation">Real Estate Recommendation Engine</a></h3>
+      <b>Analytics + ML</b><br/><br/>
+      Built an ML-powered property recommendation system using collaborative filtering and NLP-based description matching to surface relevant listings for buyers.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NLP-yellow?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square"/>
+      <br/><br/>
+      <b>Outcome:</b> 85%+ relevance score in user testing
     </td>
     <td width="50%" valign="top">
       <h3>📄 <a href="https://github.com/viru9192/BU-Research-Assistant">PDF Research Assistant</a></h3>
-      <p><b>Problem:</b> Researchers spend hours manually extracting insights from academic PDFs.</p>
-      <p><b>Solution:</b> RAG-based assistant using LangChain + OpenAI for semantic Q&A over research documents.</p>
-      <p>
-        <img src="https://img.shields.io/badge/LangChain-00BFAE?style=flat-square"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
-        <img src="https://img.shields.io/badge/RAG-Pipeline-06b6d4?style=flat-square"/>
-      </p>
-      <p>📈 <b>Impact:</b> 10x faster literature review for BU research teams</p>
+      <b>Data Engineering + GenAI</b><br/><br/>
+      RAG-based document assistant enabling semantic Q&A over academic PDFs using LangChain and OpenAI — reducing manual literature review time significantly for research teams.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LangChain-00BFAE?style=flat-square"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
+      <img src="https://img.shields.io/badge/RAG-06b6d4?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+      <br/><br/>
+      <b>Outcome:</b> 10x faster literature review for BU researchers
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>💼 <a href="https://github.com/viru9192/Job_Posting_Analyzer">Job Posting Analyzer</a></h3>
-      <p><b>Problem:</b> Job seekers waste time applying to mismatched roles.</p>
-      <p><b>Solution:</b> NLP pipeline that scores job-resume alignment, extracts key requirements, and recommends skill gaps.</p>
-      <p>
-        <img src="https://img.shields.io/badge/NLP-spaCy-09A3D5?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square"/>
-      </p>
-      <p>📈 <b>Impact:</b> Improved application targeting precision by ~70%</p>
+      <b>NLP + Analytics</b><br/><br/>
+      NLP pipeline that scores alignment between job descriptions and candidate profiles, extracts skill requirements, and surfaces gap areas to improve application targeting.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/NLP-spaCy-09A3D5?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square"/>
+      <br/><br/>
+      <b>Outcome:</b> ~70% improvement in application targeting precision
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Power BI CDS & CGS Dashboards <i>(Private)</i></h3>
-      <p><b>Problem:</b> Institutional decision-makers lacked real-time visibility into student success metrics.</p>
-      <p><b>Solution:</b> Built 15+ interactive Power BI dashboards consuming live SQL pipelines across 50,000+ student records.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/SQL-ETL-4479A1?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square"/>
-      </p>
-      <p>📈 <b>Impact:</b> 40% faster reporting; used weekly by VP-level stakeholders</p>
+      <h3>📈 Institutional Budget Forecasting</h3>
+      <b>Data Science + BI</b><br/><br/>
+      XGBoost + Time Series ensemble model built on 5-year institutional data to support $50M+ annual budget planning. Integrated results directly into Power BI dashboards for executive use.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Time%20Series-0ea5e9?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square"/>
+      <br/><br/>
+      <b>Outcome:</b> 92% forecast accuracy; adopted by VP-level planning teams
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 LLM Risk & Evaluation Framework</h3>
+      <b>AI Governance + Data Science</b><br/><br/>
+      Structured evaluation pipeline for GenAI outputs covering hallucination detection, bias scoring, and explainability using SHAP — deployed for institutional AI governance.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LLMs-OpenAI-412991?style=flat-square"/>
+      <img src="https://img.shields.io/badge/SHAP-6B46C1?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+      <br/><br/>
+      <b>Outcome:</b> 60% reduction in manual review time across research teams
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 Power BI CDS & CGS Dashboards <i>(Private)</i></h3>
+      <b>Business Intelligence</b><br/><br/>
+      End-to-end BI solution across 50,000+ student records — live SQL pipelines feeding 15+ interactive dashboards tracking enrollment, retention, and student success KPIs.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square"/>
+      <br/><br/>
+      <b>Outcome:</b> 40% faster reporting; primary tool for weekly VP briefings
     </td>
   </tr>
 </table>
 
 ---
 
-## 💼 Experience Timeline
-
-### 🏫 Binghamton University — Graduate Research Assistant
-**2024 – Present · Binghamton, NY**
-
-- 🔬 Built ML pipelines processing **50,000+ student records** for institutional analytics
-- 🎯 Achieved **92% forecasting accuracy** on $50M+ institutional budget data
-- 📊 Delivered **15+ interactive dashboards** used weekly by VP-level stakeholders
-- 🤖 Led GenAI evaluation frameworks for institutional AI governance & risk
-
----
-
-### 🏦 Tata Consultancy Services — Data Analyst (SBI Core Banking)
-**2021 – 2024 · Mumbai, India**
-
-- 🏛️ Processed **2M+ banking records** across core banking systems
-- ⚡ Improved database performance by **35–40%** via advanced query optimization
-- 📉 Reduced reporting time by **40%** through automated ETL pipelines
-- ✅ Improved data accuracy by **25%** via data governance frameworks
-
----
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viru9192&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0f1e&title_color=06b6d4&icon_color=3b82f6&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viru9192&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=06b6d4&text_color=ffffff&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=viru9192&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=0f3460&icon_color=4A9EDB&text_color=333333"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viru9192&layout=compact&theme=default&hide_border=true&title_color=0f3460&text_color=333333&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=viru9192&theme=tokyonight&hide_border=true&background=0a0f1e&ring=06b6d4&fire=3b82f6&currStreakLabel=06b6d4"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viru9192&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=viru9192&theme=default&hide_border=true&ring=0f3460&fire=4A9EDB&currStreakLabel=0f3460"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viru9192&theme=tokyonight&no-frame=true&margin-w=8&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=viru9192&theme=flat&no-frame=true&margin-w=8&column=7&title_color=0f3460"/>
 </div>
 
 ---
 
-## 📊 Contribution Graph
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viru9192&bg_color=0a0f1e&color=06b6d4&line=3b82f6&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viru9192&bg_color=ffffff&color=0f3460&line=4A9EDB&point=0f3460&area=true&hide_border=true"/>
 </div>
 
 ---
 
-## 🎯 Currently
+## Currently
 
 | | |
 |---|---|
-| 📚 **Learning** | Causal Inference · LLM Fine-tuning · dbt + Modern Data Stack |
+| 🎓 **Education** | MS Information Systems — Binghamton University (SUNY), graduating 2026 |
+| 📚 **Learning** | dbt · Causal Inference · Modern Data Stack · LLM Fine-tuning |
 | 🔨 **Building** | GenAI Evaluation Framework · Attribution Modeling Pipeline |
-| 🟢 **Available** | May 2026 onwards |
-| 📍 **Location** | Open to Remote / Hybrid / Relocation (US) |
-| 💼 **Open to** | Data Scientist · ML Engineer · BI Analyst · Data Analyst |
+| 💼 **Seeking** | Data Analyst · BI Developer · Data Engineer · Data Scientist · ML Engineer |
+| 📍 **Availability** | May 2026 · Open to Remote / Hybrid / Relocation (US) |
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
 <a href="mailto:viranchimore2112@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-viranchimore2112-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-viranchimore2112%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/viranchimore/">
-  <img src="https://img.shields.io/badge/LinkedIn-viranchimore-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-viranchimore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://viru9192.github.io/Viranchi_More_portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-00C896?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0CAA68?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.kaggle.com/viranchi">
   <img src="https://img.shields.io/badge/Kaggle-viranchi-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-<a href="https://github.com/viru9192">
-  <img src="https://img.shields.io/badge/GitHub-viru9192-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:0a0f1e&height=120&section=footer&text=Open%20to%20Opportunities%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=100&section=footer&text=Available%20May%202026%20%E2%80%94%20Open%20to%20Data%20Roles%20Across%20the%20US&fontSize=14&fontColor=a8c8f0&animation=fadeIn"/>
 
 </div>
