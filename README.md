@@ -4,7 +4,7 @@
 
 [![Roles](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1800&pause=500&color=36454F&center=true&vCenter=true&width=720&height=48&lines=Data+Analyst;BI+Developer;Data+Engineer;Data+Scientist;ML+Engineer)](https://git.io/typing-svg)
 
-[![Tagline](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=3000&pause=800&color=374151&center=true&vCenter=true&width=720&height=36&lines=3%2B+years+transforming+data+into+business+decisions;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Azure+%C2%B7+Spark+%C2%B7+ML+%C2%B7+GenAI;Banking+%E2%80%A2+Institutional+Research+%E2%80%A2+Applied+Analytics;Open+to+Full-Time+Data+Roles+%E2%80%94+May+2026)](https://git.io/typing-svg)
+[![Tagline](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=3000&pause=800&color=36454F&center=true&vCenter=true&width=720&height=36&lines=3%2B+years+transforming+data+into+business+decisions;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Azure+%C2%B7+Spark+%C2%B7+ML+%C2%B7+GenAI;Banking+%E2%80%A2+Institutional+Research+%E2%80%A2+Applied+Analytics;Open+to+Full-Time+Data+Roles+%E2%80%94+May+2026)](https://git.io/typing-svg)
 
 <br/>
 
