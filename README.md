@@ -211,7 +211,7 @@ viranchi = {
                 │  ├─ Delivered 15+ dashboards to VP-level stakeholders
                 │  └─ Led GenAI evaluation frameworks for institutional AI governance
                 │
-2021 – 2023     │  🏦 Tata Consultancy Services — Data Analyst (SBI Core Banking)
+2021 – 2024     │  🏦 Tata Consultancy Services — Data Analyst (SBI Core Banking)
                 │  ├─ Processed 2M+ banking records across core banking systems
                 │  ├─ Improved database performance by 35–40% via query optimization
                 │  ├─ Reduced reporting time by 40% through automated ETL pipelines
@@ -262,7 +262,7 @@ current_status = {
   "learning"  : ["Causal Inference", "LLM Fine-tuning", "dbt + Modern Data Stack"],
   "building"  : ["GenAI Evaluation Framework", "Attribution Modeling Pipeline"],
   "open_to"   : ["Full-Time: Data Scientist | ML Engineer | BI Analyst | Data Analyst"],
-  "available" : "May 2025 onwards 🟢",
+  "available" : "May 2026 🟢",
   "location"  : "Open to Remote / Hybrid / Relocation (US)"
 }
 ```
