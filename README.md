@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=160&section=header&text=Viranchi%20More&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=160&section=header&text=Viranchi%20More&fontSize=64&fontColor=F9FAFB&animation=fadeIn&fontAlignY=45"/>
 
 [![Roles](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1800&pause=500&color=1D4ED8&center=true&vCenter=true&width=720&height=48&lines=Data+Analyst;BI+Developer;Data+Engineer;Data+Scientist;ML+Engineer)](https://git.io/typing-svg)
 
