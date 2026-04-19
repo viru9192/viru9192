@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Viranchi%20More&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Data%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descSize=16&descColor=93C5FD"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=160&section=header&text=Viranchi%20More&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45"/>
 
-<br/>
+[![Roles](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1800&pause=500&color=93C5FD&center=true&vCenter=true&width=720&height=48&lines=Data+Analyst;BI+Developer;Data+Engineer;Data+Scientist;ML+Engineer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=720&height=40&lines=3%2B+years+transforming+data+into+business+decisions;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Azure+%C2%B7+Spark+%C2%B7+ML+%C2%B7+GenAI;Banking+%E2%80%A2+Institutional+Research+%E2%80%A2+Applied+Analytics;Open+to+Full-Time+Data+Roles+%E2%80%94+May+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=720&height=36&lines=3%2B+years+transforming+data+into+business+decisions;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Azure+%C2%B7+Spark+%C2%B7+ML+%C2%B7+GenAI;Banking+%E2%80%A2+Institutional+Research+%E2%80%A2+Applied+Analytics;Open+to+Full-Time+Data+Roles+%E2%80%94+May+2026)](https://git.io/typing-svg)
 
 <br/>
 
@@ -258,6 +258,6 @@ RAG-based document Q&A system enabling semantic search over academic PDFs using 
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer&text=Open%20to%20Opportunities%20%E2%80%94%20May%202026&fontSize=16&fontColor=0f172a&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer&text=Open%20to%20Opportunities%20%E2%80%94%20May%202026&fontSize=16&fontColor=93C5FD&animation=fadeIn"/>
 
 </div>
