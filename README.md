@@ -89,7 +89,7 @@ SHAP         ████████████████░░░░  Advan
 <td width="50%" valign="top">
 
 ### 🎓 Binghamton University (SUNY)
-**Graduate Research Assistant — Institutional Research**
+**Data Analyst - Institutional Research**
 `Jan 2024 – Present` &nbsp;·&nbsp; Binghamton, NY
 
 - Built ETL pipelines across **50,000+ student records** for enrollment & outcomes reporting
