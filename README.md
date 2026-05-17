@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viranchimore/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viranchimore2112@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1f2328?style=for-the-badge&logo=github&logoColor=white)](https://viru9192.github.io/Viranchi_More_portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f2328?style=for-the-badge&logo=github&logoColor=white)](https://viru9192.github.io/New-Portfolio-2026/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/viranchi)
 [![Views](https://komarev.com/ghpvc/?username=viru9192&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS)](https://github.com/viru9192)
 
